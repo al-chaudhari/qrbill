@@ -1,0 +1,11 @@
+{
+  "name": "pie-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "canvg": "^3.0.7",
+    "svg-to-pdfkit": "^0.1.8",
+    "svg-to-png-browser": "^1.0.2"
+  }
+}
