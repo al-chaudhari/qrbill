@@ -3,8 +3,13 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "start": "parcel -p 8080 watch index.html"
+  },
   "dependencies": {
+    "branded-qr-code": "^1.3.0",
     "canvg": "^3.0.7",
+    "qrcode": "^1.2.0",
     "svg-to-pdfkit": "^0.1.8",
     "svg-to-png-browser": "^1.0.2"
   }
